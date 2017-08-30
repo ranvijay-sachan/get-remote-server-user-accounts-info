@@ -18,7 +18,21 @@ account file on the system. It parses the file and highlights the users who have
 The application should be designed as a web application
 
 # Steps 
-
+  Install:
+  
+  ```
   - pip install paramiko Flask
+  
+  ```
+  
+  Run Flask server:
+  
+  ```
   - python app.py
+  
+  ```
+  
+  
+  ```
   - http://localhost:5000/login 
+  ```
